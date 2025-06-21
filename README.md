@@ -17,22 +17,23 @@ The dataset used in this project is the Wine Quality dataset, which contains mea
 </ol>
 
 # Results
-Accuracy: 0.5689
-Precision: 0.5617
-Recall: 0.5689
+Accuracy: 0.5689 <br>
+Precision: 0.5617 <br>
+Recall: 0.5689 <br>
 F1 Score: 0.5609
 
 
-How to Run the Notebook
+<b>How to Run the Notebook
 Clone the repository to your local machine.
 Open the notebook in Google Colab or a Jupyter environment.
 Run the cells sequentially to reproduce the analysis and model building steps.
 Dependencies
-The following libraries are required to run this notebook:
+The following libraries are required to run this notebook:<b>
+<br>
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-These can be installed using pip:
+<strong>pandas <br>
+numpy <br>
+matplotlib <br>
+seaborn <br>
+scikit-learn <br>
+These can be installed using pip:<strong>
